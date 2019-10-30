@@ -1,38 +1,15 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Stéphane Goetz",
-    "image": "app.png",
-    "ignore": {
-            "files": ["Work_In_Progress.md"],
-            "folders": ["99_Not_Ready"]
-    },
-    "live": {
-        "clean_urls": true
-    },
+    "title": "F45 Matrix",
+    "tagline": " Dev Bible",
+    "author": "Michelle Alas <mm@bywave.com.au>",
     "html": {
-        "theme": "daux-blue",
-        "breadcrumbs": true,
-        "breadcrumb_separator": "Chevrons",
-        "toggle_code": true,
-        "date_modified": true,
-        "inherit_index": true,
-
-        "repo": "dauxio/daux.io",
-        "edit_on_github": "dauxio/daux.io/blob/master/docs",
-        "twitter": ["onigoetz"],
-        "google_analytics": "UA-3551397-7",
-        "links": {
-            "Download": "https://github.com/dauxio/daux.io/archive/master.zip",
-            "GitHub Repo": "https://github.com/dauxio/daux.io",
-            "Help/Support/Bugs": "https://github.com/dauxio/daux.io/issues"
-        },
-
-        "powered_by": "Powered by Daux.io"
-    },
-    "confluence": {
-        "base_url": "https://dauxio.atlassian.net/wiki/",
-        "space_id": "DOC",
-        "root_id": 196610
-    }
+    	"edit_on_github": "https://github.com/f45training/matrixbible",
+    	"auto_landing": false,
+    	"search": true,
+    	"links": {
+	      "GitHub Repo": "https://github.com/f45training/matrix",
+	      "Help/Support/Bugs": "https://github.com/f45training/matrix"
+    	},
+    	"theme": "daux-navy"
+  	}
 }
