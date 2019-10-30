@@ -10,6 +10,7 @@
     	"search": true,
     	"links": {
 	      "Matrix GitHub Repo": "https://github.com/f45training/matrix",
+	      "Rest API Docs": "https://f45matrixrestbible.herokuapp.com",
 	      "Help/Support/Bugs": "https://github.com/f45training/matrix"
     	},
     	"theme": "daux-navy"
