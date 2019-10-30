@@ -1,13 +1,15 @@
 {
-    "title": "F45 Matrix",
-    "tagline": " Dev Bible",
+    "title": "F45 Matrix Dev Bible",
+    "tagline": "Matrix Data Dictionary",
     "author": "Michelle Alas <mm@bywave.com.au>",
     "html": {
+    	"repo": "https://github.com/f45training/matrixbible",
     	"edit_on_github": "https://github.com/f45training/matrixbible",
-    	"auto_landing": false,
+    	"auto_landing": true,
+    	"date_modified": true,
     	"search": true,
     	"links": {
-	      "GitHub Repo": "https://github.com/f45training/matrix",
+	      "Matrix GitHub Repo": "https://github.com/f45training/matrix",
 	      "Help/Support/Bugs": "https://github.com/f45training/matrix"
     	},
     	"theme": "daux-navy"
